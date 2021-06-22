@@ -1,4 +1,4 @@
-# **GROUP NAME**
+# **Tetrapython Brigade**
 ### **Members:** 
 ```
 Rabbi John Bumatay 
