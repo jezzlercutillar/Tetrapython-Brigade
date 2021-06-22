@@ -1,5 +1,5 @@
-# GROUP NAME
-## Members: 
+# **GROUP NAME**
+## **Members:** 
 ##### Rabbi John Bumatay 
 ##### Jezzler Cutillar (Leader)
 ##### Lianbert Daniel Manansala Go 
@@ -7,7 +7,7 @@
 ##### Jiego Tabingo
 
 ##
-## Project Title: Calculator
+## **Project Title: Calculator**
 ## 
 
-## Python Version 3.6 
+## **Python Version 3.6** 
