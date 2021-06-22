@@ -11,7 +11,7 @@ Jiego Tabingo
 
 # **Project Title: Calculator**
 
-### Built With
+### Built with:
 ```
 -Python Programming Language
 -Ambot Tkinter or Kivvy? unsa atoang gamiton diria jezz?
