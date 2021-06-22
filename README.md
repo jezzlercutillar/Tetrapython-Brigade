@@ -1,7 +1,9 @@
 # **Tetrapython-Brigade**
+
+### **Leader:**
 ```
-### **Leader:** 
 Jezzler Cutillar
+```
 ### **Members:** 
 ```
 Rabbi John Bumatay 
