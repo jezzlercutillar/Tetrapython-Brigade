@@ -1,5 +1,5 @@
 # **GROUP NAME**
-## **Members:** 
+### **Members:** 
 ```
 Rabbi John Bumatay 
 Jezzler Cutillar (Leader)
