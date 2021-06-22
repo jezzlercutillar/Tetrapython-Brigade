@@ -4,7 +4,6 @@ Jezzler Cutillar
 ### **Members:** 
 ```
 Rabbi John Bumatay 
-Jezzler Cutillar 
 Lianbert Daniel Manansala Go 
 Arch Jun Villavicencio Molles
 Jiego Tabingo
