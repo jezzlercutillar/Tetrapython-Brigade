@@ -2,7 +2,7 @@
 ### **Members:** 
 ```
 Rabbi John Bumatay 
-Jezzler Cutillar (Leader)
+Jezzler Cutillar 
 Lianbert Daniel Manansala Go 
 Arch Jun Villavicencio Molles
 Jiego Tabingo
@@ -11,7 +11,7 @@ Jiego Tabingo
 
 # **Project Title: Calculator**
 
-### Built with:
+### Built With
 ```
 -Python Programming Language
 -Ambot Tkinter or Kivvy? unsa atoang gamiton diria jezz?
