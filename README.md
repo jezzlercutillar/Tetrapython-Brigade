@@ -6,7 +6,7 @@ Jezzler Cutillar
 ```
 ### **Members:** 
 ```
-Rabbi John Bumatay 
+Rabbi John G. Bumatay 
 Lianbert Daniel Manansala Go 
 Arch Jun Villavicencio Molles
 Jiego Tabingo
