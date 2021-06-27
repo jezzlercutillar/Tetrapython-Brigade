@@ -18,6 +18,5 @@ Jiego Tabingo
 ### Built With
 ```
 -Python Programming Language
--Ambot Tkinter or Kivvy? unsa atoang gamiton diria jezz?
 ```
 ### **Python Version 3.6** 
