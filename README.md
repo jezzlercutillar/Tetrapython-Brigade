@@ -4,7 +4,7 @@
 ```
 What you will see in this branch is our calculator's logic.This branch contains two 
 Python files that you can download. The first Python file is Logic.py, which contains 
-the logic for our excellent calculator, and the second Python file  is test.py. 
+the logic for our calculator, and the second Python file  is test.py. 
 In test.py, we will verify that our code performs properly and contains no madapaking errors.
 ```
 
