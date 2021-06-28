@@ -1,23 +1,7 @@
-# **Tetrapython-Brigade**
+# **Calculator-Logic**
 
-### **Leader:**
+#### **ASSIGNED TO:**
 ```
-Jezzler Cutillar
+☑️ Tabingo, Jiego
+☑️ Go, Lianbert Daniel
 ```
-### **Members:** 
-```
-Rabbi John Bumatay 
-Lianbert Daniel Manansala Go 
-Arch Jun Villavicencio Molles
-Jiego Tabingo
-```
-
-
-# **Project Title: Calculator**
-
-### Built With
-```
--Python Programming Language
-
-```
-### **Python Version 3.6** !
