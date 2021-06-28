@@ -21,7 +21,7 @@ class Test(unittest.TestCase):
 
   def test_00_multiplication(self):
     solve = "5*10"
-    self.assertEqual(Calculator(Solve), 500)
+    self.assertEqual(Calculator(Solve), 50)
  
   def test_00_multiplication(self):
     solve = "1*5*53*6"
