@@ -43,5 +43,5 @@ class Test(unittest.TestCase):
     solve = "1/2*3-4"
     self.assertEqual(Calculator(Solve), -2.5)  
   
-if __name__ == "_main_":
+if __name__ == "__main__":
   unittest.main()
