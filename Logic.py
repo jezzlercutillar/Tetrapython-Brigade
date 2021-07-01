@@ -6,3 +6,9 @@ def clearall():
 
 def clearone():
         pass
+
+def click (operation):
+        pass
+
+def main():
+        pass
