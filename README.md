@@ -7,7 +7,7 @@ Jezzler Cutillar
 ### **Members:** 
 ```
 Rabbi John G. Bumatay 
-Lianbert Daniel Manansala Go 
+Lianbert Daniel Manansala Go    
 Arch Jun Villavicencio Molles
 Jiego Tabingo
 ```
