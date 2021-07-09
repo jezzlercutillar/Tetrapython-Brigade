@@ -1,25 +1,49 @@
-# GRAPHICAL USER INTERFACE
-
 from tkinter import*
 
-class Calculator(Frame):	
+class Calculator(Frame):
 	def __init__(self, master=None):
 		super().__init__(master)
 		self.calcgui()
+		self.kroo = False
 		self.pack()
 
 	def solve(self):
-		pass
-		
+		try:
+			result = self.problem.get()
+			resultfinal = eval(result)
+		except:
+			self.problem.delete(0, END)
+			self.problem.insert(0 ,"Error")
+		else:
+			self.problem.delete(0, END)
+			self.problem.insert(0, resultfinal)
+
+		global kroo
+		self.kroo = True
+		return self.kroo
+
 	def delonecharac(self):
-		pass
+		global kroo
+		if self.kroo == True:
+			self.kroo = False
+		meow = self.problem.get()
+		arf = len(meow)-1
+		self.problem.delete(arf, END)
 
 	def clearall(self):
-		pass
+		self.problem.delete(0, END)
+	
 
 	def click(self, enter):
-		pass
-			
+		global kroo
+		if self.kroo == True:
+			self.kroo = False
+		meow = self.problem.get()
+		arf = meow + enter
+		self.problem.delete(0, END)
+		self.problem.insert(0, arf)
+		return self.problem.get()
+		
 	def calcgui(self):
 
 		self.groupname = Label(self, text="Tetrapython Brigade Calculator", width=35,padx=0,pady=8, borderwidth=0, justify="right", relief=RIDGE, fg="#E0E1E4", font=("Impact", "18"),bg="#022954")
@@ -88,9 +112,11 @@ class Calculator(Frame):
 
 		doublezerobutt = Button(self, text="00", width=12, pady=15, fg="Black", font=("Bebas", "9", "bold"), bg="#b0b8ce", command=lambda: self.click("00"))
 		doublezerobutt.grid(row=4, column=2, padx=3, pady=3)
+	
 
 a = Calculator()
 a.master.title("Tetrapython Brigade")
 a.master.geometry("458x410")
 a.configure(bg='#022954')
 a.mainloop()
+
