@@ -1,3 +1,5 @@
+# Calculator Logic
+
 from tkinter import*
 
 class Calculator(Frame):
