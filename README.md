@@ -1,22 +1,7 @@
-# **Tetrapython-Brigade**
+## **GUI Branch:**
 
-### **Leader:**
-```
-Jezzler Cutillar
-```
-### **Members:** 
-```
+### **Assigned to:** 
+``` 
 Rabbi John G. Bumatay 
-Lianbert Daniel Manansala Go 
 Arch Jun Villavicencio Molles
-Jiego Tabingo
-```
-
-
-# **Project Title: Calculator**
-
-### Built With
-```
--Python Programming Language
-```
-### **Python Version 3.6** 
+``` 
