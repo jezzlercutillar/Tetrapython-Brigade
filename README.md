@@ -15,7 +15,8 @@ Jiego Tabingo
 # **Project Title: Calculator**
 
 ### **Model**
-![Untitled](https://user-images.githubusercontent.com/86284155/125060321-d7a1d180-e0de-11eb-8ca7-0d93dbd318d4.png)
+
+![GUI](https://user-images.githubusercontent.com/84432228/125067879-aa670c00-e069-11eb-8b6c-4bf099c60d89.png)
 
 ### Built With
 ```
